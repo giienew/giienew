@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=Reverse+Engineer+%26+API+Developer;Network+Sniffing+Specialist;Android+System+Hacker;Protocol+Research+Expert" alt="Typing SVG" />
 
-### 🔥 Reverse Engineer | Network Analyst | System Hacker 🔥
+### Reverse Engineer | Network Analyst | Android System Mod 
 
 [![NB Community](https://img.shields.io/badge/NB%20Community-Core%20Member-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDdWMTJDNCAxNi40MiA3LjU4IDIwIDEyIDIwQzE2LjQyIDIwIDIwIDE2LjQyIDIwIDEyVjdMMTIgMloiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+)](https://whatsapp.com/channel/0029Vb5EZCjIiRotHCI1213L)
 [![Age](https://img.shields.io/badge/Age-29%20years-blue?style=for-the-badge&logo=clockify&logoColor=white)](https://github.com/giienew)
@@ -156,33 +156,6 @@ const gienetic = {
 | 📱 **Custom ROM Tweaks** | Performance optimization modules for Android | Shell, Magisk |
 | 🤖 **API Automation Suite** | Convert mobile apps to REST APIs | Node.js, Express |
 | 🔓 **SSL Pinning Bypass** | Frida scripts for certificate pinning bypass | Frida, JavaScript |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giienew&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giienew&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giienew&theme=radical)](https://github.com/giienew)
-
-</div>
-
----
-
-## 🌟 Featured Repositories
-
-<div align="center">
-
-[![GetContact API](https://github-readme-stats.vercel.app/api/pin/?username=giienew&repo=getcontact-api-client&theme=radical)](https://github.com/giienew/getcontact-api-client)
 
 </div>
 
