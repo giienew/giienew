@@ -161,33 +161,6 @@ const gienetic = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giienew&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giienew&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giienew&theme=radical)](https://github.com/giienew)
-
-</div>
-
----
-
-## 🌟 Featured Repositories
-
-<div align="center">
-
-[![GetContact API](https://github-readme-stats.vercel.app/api/pin/?username=giienew&repo=getcontact-api-client&theme=radical)](https://github.com/giienew/getcontact-api-client)
-
-</div>
-
----
-
 ## 🎓 Expertise Areas
 
 ```yaml
