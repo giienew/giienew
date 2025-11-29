@@ -256,7 +256,7 @@ Development:
 
 <div align="center">
 
-### 🎯 "If it has an API, I can reverse it. If it doesn't, I'll create one." 🎯
+### 🎯 If it has an API, I can reverse it. If it doesn't, I'll create one.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=gradient" />
 
