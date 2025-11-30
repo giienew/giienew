@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gienetic
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=Reverse+Engineer+%26+API+Developer;Network+Sniffing+Specialist;Android+System+Hacker;Protocol+Research+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=Reverse+Engineer+%26+API+Developer;Network+Sniffing+Specialist;Android+System+Modifications;Protocol+Research+Expert" alt="Typing SVG" />
 
 ### Reverse Engineer | Network Analyst | System Modification
 
